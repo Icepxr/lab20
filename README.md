@@ -1,2 +1,2 @@
-# NAME: Daiyas Waehama
+# NAME: Daiyas Waeham
 # STUDENT ID: 670610756
