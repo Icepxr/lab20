@@ -12,7 +12,7 @@ int main(){
 	string name;	
 	cout << "Please input your name: ";
 	getline(cin,name);	
-	Unit hero("Hero",name); 
+	Unit hero("Hero",name); //
 
 	Equipment sword(0, 8, 4); // hpm,attk,def 
 	Equipment axes(0, 16, -3); // hpm,attk,def
