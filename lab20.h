@@ -97,7 +97,7 @@ void Unit::equip(Equipment *eq) {
 	hpmax += newStat[0];
 	atk += newStat[1];
 	def += newStat[2];
-	if (hp > hpmax) { //
+	if (hp > hpmax) { 
 		hp = hpmax;
 	}
 	equipment = eq;
